@@ -176,7 +176,7 @@ So you’re opening up government data and making it easier to find and use – 
 
 A closed-press, day-long ideation event with developers, designers, and subject matter experts focused on one topic and top related open data sets. Several are held in succession, leading up to a datapalooza three months later. *Ex: Health Data jam (HHS), 21st Century Jobs Jam (OVP, Commerce, OSTP), Mitigating Campus Sexual Assault (Department of Education, Department of Justice)*
 
-**Goal:** To connect tech and policy communities and get commitments to make things with open data, in support of agency mission and priorities.
+**Goal:** To connect every Us citizen to the world wide web, so that we all have this great opportunity for education and personal interaction with the the billions of possibilities the internet has for us all. 
 
 #### Datapalooza
 An open press celebration, demo day, and platform to announce government open data releases or improvements. *Ex: Safety Datapalooza (DOT, CPSC, FDA.)*
@@ -209,4 +209,3 @@ A website, social networking group and/or listserv where people who use open dat
 *Ex: Listservs for [NICAR](http://www.ire.org/resource-center/listservs/subscribe-nicar-l/), [Code for America Brigade](https://groups.google.com/a/codeforamerica.org/forum/#!forum/brigade), [Sunlight Labs](https://groups.google.com/forum/#!forum/sunlightlabs), the Open Government Facebook and Google+ groups.*
 
 **Goal:** To build and sustain ongoing relationships with media, nonprofits, good government advocates and civic technologists.
-
